@@ -1,4 +1,10 @@
 {
   "files.encoding": "utf8",
-  "files.eol": "\n"
+  "files.eol": "\n",
+
+  // Spell check.
+  "cSpell.useGitignore": true,
+  "cSpell.ignorePaths": [],
+  "cSpell.enableFiletypes": ["*"],
+  "cSpell.words": ["timo"]
 }
