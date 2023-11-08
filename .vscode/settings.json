@@ -2,9 +2,14 @@
   "files.encoding": "utf8",
   "files.eol": "\n",
 
+  // Prettier default formatter options.
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {"source.organizeImports": true},
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
   // Spell check.
   "cSpell.useGitignore": true,
   "cSpell.ignorePaths": [],
   "cSpell.enableFiletypes": ["*"],
-  "cSpell.words": ["timo"]
+  "cSpell.words": ["esbenp", "timo"]
 }
